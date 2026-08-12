@@ -31,7 +31,7 @@ Currently architecting production AI systems, designing intelligent automation w
 ### Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=bbonilladev&hide_border=true&theme=default" height="150" />
+  <img src="https://streak-stats.demolab.com?user=bbonilladev&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" height="150" />
 </p>
 
 ---
